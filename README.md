@@ -1,4 +1,4 @@
-# OpenClaw on Cloudflare Workers - the Morty Version
+# OpenClaw on Cloudflare Workers - the Morty Version 2
 
 Run [OpenClaw](https://github.com/openclaw/openclaw) (formerly Moltbot, formerly Clawdbot) personal AI assistant in a [Cloudflare Sandbox](https://developers.cloudflare.com/sandbox/).
 
